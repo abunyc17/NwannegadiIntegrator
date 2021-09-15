@@ -1,0 +1,33 @@
+<!DOCTYPE Databases>
+<Databases>
+	<Database>
+		<Default>false</Default>
+		<Type>Oracle</Type>
+		<Alias>inHouseRoland</Alias>
+		<Username>AMJUTEST</Username>
+		<Password>amjutest</Password>
+		<IPAddress>localhost</IPAddress>
+		<PortNumber>1521</PortNumber>
+		<ServiceName>orclpdb</ServiceName>
+	</Database>
+	<Database>
+		<Default>false</Default>
+		<Type>Oracle</Type>
+		<Alias>AmjuMFB</Alias>
+		<Username>vRuDUwaa1GRp9jYIDtum/g==</Username>
+		<Password>cBQo8U95n5ycrQ0hMQN7qA==</Password>
+		<IPAddress>3BbOSDTgfD8j3d58JNY5Rg==</IPAddress>
+		<PortNumber>LDCmCEGHz59bohQTem72uQ==</PortNumber>
+		<ServiceName>6/6WJQRMSTDHfDj+cDZqSg==</ServiceName>
+	</Database>
+	<Database>
+		<Default>true</Default>
+		<Type>Oracle</Type>
+		<Alias>inhouseWisdom</Alias>
+		<Username>NEPTUNELIVE</Username>
+		<Password>neptunelive</Password>
+		<IPAddress>localhost</IPAddress>
+		<PortNumber>1521</PortNumber>
+		<ServiceName>orclpdb</ServiceName>
+	</Database>
+</Databases>

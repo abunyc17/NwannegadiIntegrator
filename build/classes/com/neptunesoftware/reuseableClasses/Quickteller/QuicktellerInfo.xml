@@ -1,0 +1,23 @@
+<!DOCTYPE QuicktellerInfo>
+<QuicktellerInfo>
+	<Quickteller>
+		<Default>true</Default>
+		<BaseUrl>https://sandbox.interswitchng.com/</BaseUrl>
+		<ClientId>IKIA9614B82064D632E9B6418DF358A6A4AEA84D7218</ClientId>
+		<ClientSecret>XCTiBtLy1G9chAnyg0z3BcaFK4cVpwDg/GTw2EmjTZ8=</ClientSecret>
+		<TransferCodePrefix>1453</TransferCodePrefix>
+		<TerminalId>3DMO0001</TerminalId>
+		<InitiatingEntityCode>DMO</InitiatingEntityCode>
+		<SignatureMethod>SHA1</SignatureMethod>
+	</Quickteller>
+	<Quickteller>
+		<Default>true</Default>
+		<BaseUrl>XZL+oB1ojoiAtGsxRG+qkpxFwIFA4Ht+v2BvLNYUgxkkJizcIvLO7pCtlm6Zh+6N</BaseUrl>
+		<ClientId>pXYImKhI0KU3fJHxzzfslHTC9aNFF9noadoQrrhHJL54OpVMPgAflcevzaEMKQhb</ClientId>
+		<ClientSecret>q+NpjRabANA72yf6K/6qqnRV0hMUnROY5LiSKfbwZuxIzBySJCfoicf09WxqBsdZ</ClientSecret>
+		<TransferCodePrefix>kENheFbIuHGdhyYKjhzGKQ==</TransferCodePrefix>
+		<TerminalId>wiTF+FGG43Agtwh6Ixftww==</TerminalId>
+		<InitiatingEntityCode>dHBpKsXdShWtw4DpZ9rq9Q==</InitiatingEntityCode>
+		<SignatureMethod>e/55Av1fwoNAlaNwaykffA==</SignatureMethod>
+	</Quickteller>
+</QuicktellerInfo>

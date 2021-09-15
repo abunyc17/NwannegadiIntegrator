@@ -1,0 +1,39 @@
+<!DOCTYPE Databases>
+<Databases>
+	<Database>
+		<Default>true</Default>
+		<Type>Sybase</Type>
+		<Alias>InHouseSybase</Alias>
+		<Username>8S7eqyi/kt8OcLgzx0Eo8g==</Username>
+		<Password>RmXiLmEb06t7lHFC3XPYzg==</Password> 
+		<IPAddress>10.152.2.26</IPAddress>
+		<PortNumber>rh+3cDtXM2eXyqQIjI6tFA==</PortNumber>
+		<ServiceName>0lqhALZKW51KtCjNvw47ew==</ServiceName>
+		
+		<!-- <username>sa</username>
+		<password>csa123</password>
+		<IPAddress>10.152.2.26</IPAddress>
+		<PortNumber>5000</PortNumber> -->
+		<ServiceName>0lqhALZKW51KtCjNvw47ew==</ServiceName>
+	</Database>
+	<Database>
+		<Default>true</Default>
+		<Type>Sybase</Type>
+		<Alias>NwannegadinMFBTest</Alias>
+		<Username>X3AG6zVlwifhWmrYxKtl5Q==</Username>
+		<Password>RmXiLmEb06t7lHFC3XPYzg==</Password>
+		<IPAddress>5FkRu5NSvBqo+cM429ODrQ==</IPAddress>
+		<PortNumber>rh+3cDtXM2eXyqQIjI6tFA==</PortNumber>
+		<ServiceName>mvqkrongDkFt8/tffkCvsg==</ServiceName>
+	</Database>
+	<Database>
+		<Default>false</Default>
+		<Type>Sybase</Type>
+		<Alias>NwannegadinMFB</Alias>
+		<Username>X3AG6zVlwifhWmrYxKtl5Q==</Username>
+		<Password>RmXiLmEb06t7lHFC3XPYzg==</Password>
+		<IPAddress>5FkRu5NSvBqo+cM429ODrQ==</IPAddress>
+		<PortNumber>rh+3cDtXM2eXyqQIjI6tFA==</PortNumber>
+		<ServiceName>5hlM9ujvxIMZdAB9tiaD4w==</ServiceName>
+	</Database>
+</Databases>

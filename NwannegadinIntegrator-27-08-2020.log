@@ -1,0 +1,78 @@
+27-Aug-2020 09:52:30:0030
+*** BillsPayment Request ***{
+	"initiatingApp": "MAPP",
+	"paymentCode": "90501",
+	"customerId": "0000000001",
+	"fromAccountNumber": "3002036362",
+	"billerCategoryID": "1",
+	"billerDescription": "Pay your utility bills here",
+	"transactionAmount": "10000",
+	"transactionDescription": "payment for bills",
+	"cardNumber": "",	
+	"chargeAmount": "10",
+	"taxAmount": "2.5"
+}
+
+*** BillsPayment Request(Interswitch) *** 
+
+*** BillsPayment Response(Interswitch) *** 
+
+*** QueryTransaction Response *** 
+
+*** BillsPayment Response ***{
+  "responseCode": "01",
+  "responseMessage": "Insufficient Funds"
+}
+
+27-Aug-2020 10:34:39:0039
+*** ExternalFundsTransfer Request ***{
+	"initiatingApp": "MAPP",
+	"paymentCode": "90501",
+	"customerId": "0000000001",
+	"fromAccountNumber": "001204000008",
+	"billerCategoryID": "1",
+	"billerDescription": "Pay your utility bills here",
+	"transactionAmount": "10000",
+	"transactionDescription": "payment for bills",
+	"cardNumber": "",	
+	"chargeAmount": "10",
+	"taxAmount": "2.5"
+}
+
+*** ExternalFundsTransfer Request(Interswitch) *** 
+
+*** ExternalFundsTransfer Response(Interswitch) ***{"errors":[{"code":"E18","message":"The service provider is unreachable at the moment, please try again later."}],"error":{"code":"E18","message":"The service provider is unreachable at the moment, please try again later."}}
+
+*** QueryTransaction Response ***{"requestReference":"145398520825","status":"Pending","transactionRef":"DMO|Web|3DMO0001|PhcnPP|270820102016|BAWJG44T99","responseCode":"90009"}
+
+*** ExternalFundsTransfer Response ***{
+  "responseCode": "00",
+  "responseMessage": "Successful"
+}
+
+27-Aug-2020 10:39:43:0043
+*** ExternalFundsTransfer Request ***{
+	"initiatingApp": "MAPP",
+	"paymentCode": "90501",
+	"customerId": "0000000001",
+	"fromAccountNumber": "001204000008",
+	"billerCategoryID": "1",
+	"billerDescription": "Pay your utility bills here",
+	"transactionAmount": "10000",
+	"transactionDescription": "payment for bills",
+	"cardNumber": "",	
+	"chargeAmount": "10",
+	"taxAmount": "2.5"
+}
+
+*** ExternalFundsTransfer Request(Interswitch) *** 
+
+*** ExternalFundsTransfer Response(Interswitch) ***{"errors":[{"code":"900A0","message":"... while sending transaction for [Sending Phcn Prepaid recharge transaction. Amount: 10000, Number: ].-DMO|Web|3DMO0001|PhcnPP|270820102548|NTQ9BXKT97","responseCodeGrouping":"PENDING"}],"error":{"code":"900A0","message":"... while sending transaction for [Sending Phcn Prepaid recharge transaction. Amount: 10000, Number: ].-DMO|Web|3DMO0001|PhcnPP|270820102548|NTQ9BXKT97","responseCodeGrouping":"PENDING"}}
+
+*** QueryTransaction Response ***{"recharge":{"biller":"PhcnPP","customerId1":"0000000001","customerId2":null,"paymentTypeName":"Demo Item","paymentTypeCode":"DMBL01","billerId":"905"},"amount":"10000","currencyCode":"566","customer":"","paymentDate":"8/27/2020 10:25:48 AM","requestReference":"145398521161","serviceCode":"DMBL01","serviceName":"Demo Item","serviceProviderId":"905","status":"Failed","surcharge":"10000","transactionRef":"DMO|Web|3DMO0001|PhcnPP|270820102548|NTQ9BXKT97","transactionResponseCode":"90091","transactionSet":"Recharge","responseCode":"90000"}
+
+*** ExternalFundsTransfer Response ***{
+  "responseCode": "03",
+  "responseMessage": "Interswitch ResponseCode: 90091\r\nInterswitch ResponseMessageFailed"
+}
+

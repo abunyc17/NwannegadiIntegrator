@@ -1,0 +1,34 @@
+<!DOCTYPE RubikonInfo>
+<RubikonInfo>
+	<Rubikon>
+		<Default>true</Default>
+		<IPAddress></IPAddress>
+		<PortNumber></PortNumber>
+		<ChannelId>h4RREzvUwRUVh+GDS8+T5w==</ChannelId>
+		<ChannelCode>qfx5shj96GlwVSBSaU9lqA==</ChannelCode>
+		<TransactionFee></TransactionFee>
+		<ChargeCode>N0sGkQAvi9ggED2GRL6LYw==</ChargeCode>
+		<TaxCode></TaxCode>
+		<CurrencyCode>rrb5KNFsbk7sB/iJops7gA==</CurrencyCode>
+		<FundTransferCredit></FundTransferCredit>
+		<FundTransferDebit></FundTransferDebit>
+		<BillsPaymentCredit></BillsPaymentCredit>
+		<BillsPaymentDebit></BillsPaymentDebit>
+		<MobileRechargeCredit></MobileRechargeCredit>
+		<MobileRechargeDebit></MobileRechargeDebit>
+		<AuthenticatedUsername>kHlfDbiWBorK6wd/ZZDjIw==</AuthenticatedUsername>
+		<AuthenticatedPassword>/ymAHSx3IWk+6BpmDqpN6w==</AuthenticatedPassword>
+		<TransferLimitInternal>Ka+1xIhfDvF46K3/XPsJPg==</TransferLimitInternal>
+		<TransferLimitExternal>0+TQTsv66Vh6WPC2gZFrJg==</TransferLimitExternal>
+		<ApplicationUsername></ApplicationUsername>
+		<ChargeCodeBillsPayment></ChargeCodeBillsPayment>
+		<AuthenticateService>false</AuthenticateService>
+		<CompatibleVersion>fYewy7kGV2O/JJuS8RomHQ==</CompatibleVersion>
+		<LicenceInfo>20221231</LicenceInfo>
+		<AlertPeriodInDays>RjtHYOcU3Z7UQ+2UoS75mA==</AlertPeriodInDays>
+		<GracePeriodInDays>FL8oZfDOlk40mgCPSnbjug==</GracePeriodInDays>
+		<MailRecipient>
+			<EmailAddress>Fr4S56VGWcpYwfPv9xzlKNzK4fgF8sQcfuJUPBf9PI2LSon5GWOU9zCRJCfhUOk1</EmailAddress>
+		</MailRecipient>
+	</Rubikon>
+</RubikonInfo>

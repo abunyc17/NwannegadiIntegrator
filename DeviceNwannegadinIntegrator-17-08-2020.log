@@ -1,0 +1,119 @@
+17-Aug-2020 09:55:04:0004
+ ** Account Info request ** 
+3002015994
+
+ ** Account Info response ** 
+{
+  "accountName": "",
+  "accountNumber": "",
+  "accountStatus": "",
+  "accountType": "",
+  "ledgerBalance": "******",
+  "currencyCode": "",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "",
+  "accessPin": "*****"
+}
+
+17-Aug-2020 09:57:09:0009
+ ** Account Info request ** 
+001204000008
+
+ ** Account Info response ** 
+{
+  "accountName": "Justin   Onuoha",
+  "accountNumber": "001204000008",
+  "accountStatus": "A",
+  "accountType": "SA",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "08065559237",
+  "accessPin": "*****"
+}
+
+17-Aug-2020 09:57:26:0026
+ ** Account Info request ** 
+001204000008
+
+ ** Account Info response ** 
+{
+  "accountName": "Justin   Onuoha",
+  "accountNumber": "001204000008",
+  "accountStatus": "A",
+  "accountType": "SA",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "08065559237",
+  "accessPin": "*****"
+}
+
+17-Aug-2020 09:58:15:0015
+ ** Account Info request ** 
+001204000008
+
+ ** Account Info response ** 
+{
+  "accountName": "Justin   Onuoha",
+  "accountNumber": "001204000008",
+  "accountStatus": "A",
+  "accountType": "SA",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "08065559237",
+  "accessPin": "*****"
+}
+
+17-Aug-2020 10:31:24:0024
+ ** Account Info request ** 
+001204000004
+
+ ** Account Info response ** 
+{
+  "accountName": "Michael   Mmirikwe",
+  "accountNumber": "001204000004",
+  "accountStatus": "A",
+  "accountType": "SA",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "07037227211",
+  "accessPin": "*****"
+}
+
+17-Aug-2020 11:47:46:0046
+ ** Account Info request ** 
+001204000004
+
+ ** Account Info response ** 
+{
+  "accountName": "Michael   Mmirikwe",
+  "accountNumber": "001204000004",
+  "accountStatus": "Active             ",
+  "accountType": "SA ",
+  "ledgerBalance": "******",
+  "currencyCode": "",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "07037227211",
+  "accessPin": "*****"
+}
+
+17-Aug-2020 11:55:07:0007
+ ** Account Info request ** 
+001204000004
+
+ ** Account Info response ** 
+{
+  "accountName": "Michael   Mmirikwe",
+  "accountNumber": "001204000004",
+  "accountStatus": "Active",
+  "accountType": "SA",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "07037227211",
+  "accessPin": "*****"
+}
+
